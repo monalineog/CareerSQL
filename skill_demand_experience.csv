@@ -1,0 +1,105 @@
+experience_level,skill,demand_count
+Entry,Airflow,38
+Entry,Excel,38
+Entry,"Data Engineering",37
+Entry,ETL,37
+Entry,SQL,37
+Entry,BigQuery,36
+Entry,PyTorch,36
+Entry,"Deep Learning",35
+Entry,Tableau,35
+Entry,Python,35
+Entry,dbt,34
+Entry,Statistics,33
+Entry,AWS,32
+Entry,Azure,32
+Entry,"Machine Learning",32
+Entry,"Power BI",32
+Entry,"Data Visualization",31
+Entry,GCP,31
+Entry,NumPy,31
+Entry,Kafka,30
+Entry,Snowflake,30
+Entry,Spark,30
+Entry,Redshift,28
+Entry,NLP,28
+Entry,TensorFlow,28
+Entry,Pandas,25
+Lead,Spark,41
+Lead,TensorFlow,39
+Lead,ETL,37
+Lead,"Data Visualization",37
+Lead,AWS,36
+Lead,Azure,36
+Lead,Redshift,36
+Lead,Snowflake,36
+Lead,"Deep Learning",34
+Lead,Pandas,34
+Lead,Excel,33
+Lead,Python,33
+Lead,NLP,32
+Lead,GCP,31
+Lead,NumPy,30
+Lead,Kafka,30
+Lead,dbt,30
+Lead,PyTorch,30
+Lead,BigQuery,29
+Lead,"Machine Learning",29
+Lead,"Power BI",28
+Lead,Airflow,27
+Lead,SQL,27
+Lead,Statistics,26
+Lead,Tableau,25
+Lead,"Data Engineering",22
+Mid,PyTorch,44
+Mid,"Data Engineering",43
+Mid,TensorFlow,43
+Mid,dbt,42
+Mid,Excel,41
+Mid,Redshift,40
+Mid,NumPy,38
+Mid,Azure,37
+Mid,"Power BI",37
+Mid,Snowflake,36
+Mid,Spark,36
+Mid,AWS,35
+Mid,Pandas,33
+Mid,Airflow,32
+Mid,GCP,32
+Mid,BigQuery,31
+Mid,Python,30
+Mid,Kafka,30
+Mid,"Data Visualization",29
+Mid,"Deep Learning",29
+Mid,"Machine Learning",28
+Mid,Statistics,28
+Mid,ETL,27
+Mid,SQL,27
+Mid,Tableau,24
+Mid,NLP,21
+Senior,Pandas,40
+Senior,Airflow,39
+Senior,BigQuery,36
+Senior,Snowflake,36
+Senior,Python,35
+Senior,AWS,34
+Senior,Azure,32
+Senior,GCP,32
+Senior,Excel,32
+Senior,PyTorch,32
+Senior,dbt,31
+Senior,Redshift,31
+Senior,Kafka,31
+Senior,Spark,31
+Senior,"Data Engineering",30
+Senior,"Data Visualization",29
+Senior,NumPy,29
+Senior,Tableau,29
+Senior,SQL,28
+Senior,ETL,27
+Senior,"Machine Learning",26
+Senior,NLP,26
+Senior,Statistics,26
+Senior,TensorFlow,25
+Senior,"Power BI",24
+Senior,"Deep Learning",22

@@ -1,0 +1,11 @@
+skill_1,skill_2,combination_count
+Airflow,Redshift,58
+Azure,"Machine Learning",53
+PyTorch,Spark,52
+"Data Engineering",TensorFlow,45
+PyTorch,Snowflake,44
+Snowflake,Spark,43
+ETL,Python,42
+"Machine Learning",Spark,42
+NumPy,PyTorch,42
+"Data Engineering",Redshift,41
